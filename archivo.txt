@@ -8,3 +8,8 @@ github
 
 segundo ejemplo de commit 
 en este archivo
+
+tercer commit realizado
+ejemplo de github 
+
+5to compu B 
